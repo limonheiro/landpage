@@ -15,7 +15,6 @@
     padding: 0;
 }
 
-
 body {
     box-sizing: border-box;
     background-color: var(--main-color);
@@ -80,7 +79,6 @@ body {
     font-size: var(--main-font-size);
 }
 
-
 .apresentacao_links {
     display: flex;
     flex-direction: column;
@@ -124,8 +122,6 @@ body {
     font-weight: 400;
     text-align: center;
 }
-
-
 
 @media (max-width:1200px) {
     .cabecalho{
